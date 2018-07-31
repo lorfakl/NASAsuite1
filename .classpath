@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="resources"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/byte-buddy-1.8.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/commons-lang3-3.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/commons-lang3-3.7-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/commons-lang3-3.7-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/commons-lang3-3.7-tests.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/commons-lang3-3.7-test-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/cucumber-core-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/cucumber-guice-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/cucumber-java-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/cucumber-junit-3.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/cucumber-jvm-deps-1.0.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/gherkin-5.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/gson-2.8.2-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/gson-2.8.2-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/java-client-6.0.0-BETA3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/junit-jupiter-api-5.3.0-M1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/org.eclipse.paho.client.mqttv3_1.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/org.eclipse.paho.mqtt.utility-1.0.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/tag-expressions-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/java-client-master/java-client-master/src/main/java"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/client-combined-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/TayloJih/Downloads/Automation Jars/client-combined-3.12.0-sources.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
